@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Stifler82 github stats](https://github-readme-stats.vercel.app/api?username=Stifler82&show_icons=true)](https://github.com/Stifler82)
+[![Stifler82 github stats](https://github-readme-stats.vercel.app/api?username=Stifler82&show_icons=true)](https://github.com/Stifler82/github-readme-stats)
