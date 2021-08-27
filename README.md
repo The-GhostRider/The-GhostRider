@@ -1,4 +1,4 @@
-# ⚡Stifler/Ghostrider⚡
+# ⚡Stifler⚡
 ***[Quote]:*** _Thomas Alva Edison <br> I have not failed. I've just found 10,000 ways that won't work._
 
 
