@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Stifler82 GitHub stats](https://github-readme-stats.vercel.app/api?username=Stifler82&show_icons=true&theme=radical)](https://github.com/Stifler82/github-readme-stats-ruby-one)
+[![Stifler82 GitHub stats](https://github-readme-stats.vercel.app/api?username=Stifler82&show_icons=true&theme=radical)](https://github.com/Stifler82/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
