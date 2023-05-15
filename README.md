@@ -19,5 +19,3 @@ Here are some ideas to get you started:
 -->
 
 ![Stifler82 GitHub stats](https://github-readme-stats.vercel.app/api?username=Stifler82&show_icons=true&theme=radical)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
