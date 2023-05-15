@@ -1,10 +1,10 @@
-# 🔥GhostRider🔥
+# 🔥hostRider🔥
 ***[Quote]:*** _Thomas Alva Edison <br> I have not failed. I've just found 10,000 ways that won't work._
 
 
 
 <!--
-**⚡GhostRider/GhostRider ⚡r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**⚡hostRider/hostRider ⚡r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
