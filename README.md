@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ![Stifler82 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stifler82&show_icons=true&theme=radical)
 
-[![Stifler82 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stifler82&show_icons=true&theme=radical)]target="_blank"(https://github.com/Stifler82/github-readme-stats)
+[![Stifler82 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stifler82&show_icons=true&theme=radical)](target="_blank"https://github.com/Stifler82/github-readme-stats)
