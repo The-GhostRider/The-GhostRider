@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Stifler82 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stifler82&show_icons=true&theme=radical)
+![Stifler82 🔥GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stifler82&show_icons=true&theme=radical)
