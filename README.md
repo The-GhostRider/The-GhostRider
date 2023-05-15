@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 
 [![Stifler82 github stats](https://github-readme-stats-ruby-one.vercel.app/api?username=Stifler82)](https://github.com/Stifler82/github-readme-stats-ruby-one)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
