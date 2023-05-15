@@ -1,4 +1,4 @@
-# 🔥GhostRider🔥
+# 🔥The GhostRider🔥
 ***[Quote]:*** _Thomas Alva Edison <br> I have not failed. I've just found 10,000 ways that won't work._
 
 
@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Stifler82 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stifler82&show_icons=true&theme=onedark)
+![The-GhostRider GitHub Stats](https://github-readme-stats.vercel.app/api?username=The-GhostRider&show_icons=true&theme=onedark)
