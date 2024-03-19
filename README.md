@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![The-GhostRider GitHub Stats](https://github-readme-stats.vercel.app/api?username=The-GhostRider&show_icons=true&theme=onelight)
+![The-GhostRider GitHub Stats](https://github-readme-stats.vercel.app/api?username=The-GhostRider&show_icons=true&theme=onedark)
